@@ -24,3 +24,7 @@ I am just testing new GitHub's feature!
 - https://github.com/gkucmierz/get-eth-balances - npm cli package 📦 that helps to check ETH balances
 - https://github.com/gkucmierz/game-of-life - my version of unlimited Game of Life + visualisation ❤️ 
 - https://github.com/gkucmierz/statistical-analysis - some old tool (may be moved to [web-tools](https://github.com/gkucmierz/web-tools))
+
+##### My wishlist
+- https://training.linuxfoundation.org/certification/jsnsd
+- https://training.linuxfoundation.org/certification/jsnad
