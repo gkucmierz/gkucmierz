@@ -33,5 +33,5 @@ I am just testing new GitHub's feature!
 - https://www.javascriptinstitute.org/javascript-certification/
 - https://www.codechef.com/certification/data-structures-and-algorithms/about
 
-###### My TODO list
+##### My TODO list
 https://github.com/gkucmierz/TODO
