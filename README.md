@@ -32,3 +32,6 @@ I am just testing new GitHub's feature!
 - https://www.ciwcertified.com/ciw-certifications/web-development-series/javascript-specialist
 - https://www.javascriptinstitute.org/javascript-certification/
 - https://www.codechef.com/certification/data-structures-and-algorithms/about
+
+###### My TODO list
+https://github.com/gkucmierz/TODO
