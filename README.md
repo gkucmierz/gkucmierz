@@ -2,9 +2,6 @@
 ### Hi there 👋
 
 I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/gkucmierz)
-
-I am just testing new GitHub's feature!
 
 ##### My open source projects
 - https://github.com/gkucmierz/instacode 💻
@@ -39,3 +36,5 @@ I am just testing new GitHub's feature!
 
 ##### My TODO list
 https://github.com/gkucmierz/TODO
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/gkucmierz)
