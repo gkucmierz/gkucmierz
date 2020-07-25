@@ -37,4 +37,4 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 ##### My TODO list
 https://github.com/gkucmierz/TODO
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/gkucmierz)
+![visitors](https://komarev.com/ghpvc/?username=gkucmierz&color=blue)
