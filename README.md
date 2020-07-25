@@ -1,4 +1,8 @@
+
 ### Hi there 👋
+
+I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/gkucmierz)
 
 I am just testing new GitHub's feature!
 
