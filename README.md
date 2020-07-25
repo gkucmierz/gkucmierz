@@ -4,10 +4,10 @@
 I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 
 ##### My open source projects
-- https://instacode.dev/scratchpad 💻 [source](https://github.com/gkucmierz/instacode)
-- https://awesome-web-tools.web.app 🛠 [source](https://github.com/gkucmierz/web-tools)
-- https://btc-average.web.app 💵 [source](https://github.com/gkucmierz/bitcoin-average)
-- https://gkucmierz.github.io/coin-tools [source](https://github.com/gkucmierz/coin-tools)
+- [[app](https://instacode.dev/scratchpad)] - https://github.com/gkucmierz/instacode 💻
+- [[app](https://awesome-web-tools.web.app)] - https://github.com/gkucmierz/web-tools 🛠
+- [[app](https://btc-average.web.app)] - https://github.com/gkucmierz/bitcoin-average 💵
+- [[app](https://gkucmierz.github.io/coin-tools)] - https://github.com/gkucmierz/coin-tools
 
 ##### NPM packages that may need your help
 - https://www.npmjs.com/package/gapi-browser
