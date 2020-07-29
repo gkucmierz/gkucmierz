@@ -41,7 +41,7 @@ https://github.com/gkucmierz/TODO
 <details>
   <summary>Statistics</summary>
   
-  [![Statistics](https://github-readme-stats.vercel.app/api?username=gkucmierz&show_icons=true)](#)
+  ![Statistics](https://github-readme-stats.vercel.app/api?username=gkucmierz&show_icons=true)
 </details>
 
 ![visitors](https://komarev.com/ghpvc/?username=gkucmierz&color=blue)
