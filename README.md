@@ -24,7 +24,7 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 - https://github.com/gkucmierz/hackerrank - some of my hackerrank solutions
 - https://github.com/gkucmierz/brainfuck-interpreter - old project - interpreting BF 🧠 language
 - https://github.com/gkucmierz/get-eth-balances - npm cli package 📦 that helps to check ETH balances
-- https://github.com/gkucmierz/game-of-life - my version of unlimited Game of Life + visualisation ❤️ 
+- https://github.com/gkucmierz/game-of-life - my version of unlimited Game of Life + visualisation ❤️
 - https://github.com/gkucmierz/statistical-analysis - some old tool (may be moved to [web-tools](https://github.com/gkucmierz/web-tools))
 
 ##### My wishlist
@@ -40,8 +40,9 @@ https://github.com/gkucmierz/TODO
 
 <details>
   <summary>Statistics</summary>
-  
+
   ![Statistics](https://github-readme-stats.vercel.app/api?username=gkucmierz&show_icons=true)
 </details>
 
 ![visitors](https://komarev.com/ghpvc/?username=gkucmierz&color=blue)
+
