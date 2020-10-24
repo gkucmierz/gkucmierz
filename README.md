@@ -18,6 +18,7 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 ##### Other stuff
 - https://github.com/gkucmierz/certificates - certificates, assesments, pdfs
 - https://github.com/gkucmierz/algorithms - some of algorithms or code patterns
+- https://github.com/gkucmierz/leetcode - my leetcode solutions
 - https://github.com/gkucmierz/Exercism - my exercism codes - learning new languages
 - https://github.com/gkucmierz/codewars - some of my codewars solutions
 - https://github.com/gkucmierz/Test-of-localStorage-limits-quota - testing browser localStorage API using bisection algorithm
