@@ -40,6 +40,7 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 ##### My TODO list
 https://github.com/gkucmierz/TODO
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkucmierz&layout=compact)
 <details>
   <summary>Top Langs</summary>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkucmierz&layout=compact)
