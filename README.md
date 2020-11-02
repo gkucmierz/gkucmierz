@@ -41,8 +41,12 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 https://github.com/gkucmierz/TODO
 
 <details>
-  <summary>Statistics</summary>
+  <summary>Top Langs</summary>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkucmierz&layout=compact)
+</details>
 
+<details>
+  <summary>Statistics</summary>
   ![Statistics](https://github-readme-stats.vercel.app/api?username=gkucmierz&show_icons=true)
 </details>
 
