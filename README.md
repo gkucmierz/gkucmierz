@@ -4,7 +4,7 @@
 I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 
 ##### My open source projects
-- [[app](https://instacode.dev/scratchpad)] - https://github.com/gkucmierz/instacode 💻
+- [[app](https://instacode-bc6ac.web.app/scratchpad)] - https://github.com/gkucmierz/instacode 💻
 - [[app](https://awesome-web-tools.web.app)] - https://github.com/gkucmierz/web-tools 🛠
 - [[app](https://btc-average.web.app)] - https://github.com/gkucmierz/bitcoin-average 💵
 - [[app](https://gkucmierz.github.io/coin-tools)] - https://github.com/gkucmierz/coin-tools
