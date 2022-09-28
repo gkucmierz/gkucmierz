@@ -8,7 +8,6 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 - [[app](https://awesome-web-tools.web.app)] - https://github.com/gkucmierz/web-tools 🛠
 - [[app](https://btc-average.web.app)] - https://github.com/gkucmierz/bitcoin-average 💵
 - [[app](https://gkucmierz.github.io/vanity-eth)] - https://github.com/gkucmierz/vanity-eth
-- [[app](https://gkucmierz.github.io/coin-tools)] - https://github.com/gkucmierz/coin-tools
 
 ##### NPM packages that may need your help
 - https://www.npmjs.com/package/social-links
