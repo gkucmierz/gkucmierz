@@ -21,7 +21,6 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 - https://github.com/gkucmierz/leetcode - my leetcode solutions
 - https://github.com/gkucmierz/Exercism - my exercism codes - learning new languages
 - https://github.com/gkucmierz/codewars - some of my codewars solutions
-- https://github.com/gkucmierz/profanity - vanity ETH address with checksum case match
 - https://github.com/gkucmierz/Test-of-localStorage-limits-quota - testing browser localStorage API using bisection algorithm
 - https://github.com/gkucmierz/hackerrank - some of my hackerrank solutions
 - https://github.com/gkucmierz/brainfuck-interpreter - old project - interpreting BF 🧠 language
