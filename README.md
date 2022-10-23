@@ -10,16 +10,14 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 - [[app](https://gkucmierz.github.io/vanity-eth)] - https://github.com/gkucmierz/vanity-eth
 - [[app](https://gkucmierz.github.io/crypto-links)] - https://github.com/gkucmierz/crypto-links
 
-##### NPM packages that may need your help
+##### NPM packages
 - https://www.npmjs.com/package/social-links
-- https://www.npmjs.com/package/gapi-browser
-- https://www.npmjs.com/package/gmail-autoresponder
-- https://www.npmjs.com/package/wait-prop
+- https://www.npmjs.com/package/@gkucmierz/utils
 
 ##### Other stuff
 - https://github.com/gkucmierz/certificates - certificates, assesments, pdfs
 - https://github.com/gkucmierz/algorithms - some of algorithms or code patterns
-- https://github.com/gkucmierz/leetcode - my leetcode solutions
+- https://github.com/gkucmierz/leetcode - some of my leetcode solutions
 - https://github.com/gkucmierz/Exercism - my exercism codes - learning new languages
 - https://github.com/gkucmierz/codewars - some of my codewars solutions
 - https://github.com/gkucmierz/Test-of-localStorage-limits-quota - testing browser localStorage API using bisection algorithm
@@ -27,18 +25,6 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 - https://github.com/gkucmierz/brainfuck-interpreter - old project - interpreting BF 🧠 language
 - https://github.com/gkucmierz/get-eth-balances - npm cli package 📦 that helps to check ETH balances
 - https://github.com/gkucmierz/game-of-life - my version of unlimited Game of Life + visualisation ❤️
-- https://github.com/gkucmierz/statistical-analysis - some old tool (may be moved to [web-tools](https://github.com/gkucmierz/web-tools))
-
-##### My wishlist
-- https://training.linuxfoundation.org/certification/jsnsd
-- https://training.linuxfoundation.org/certification/jsnad
-- https://www.ciwcertified.com/ciw-certifications/web-development-series/web-development-professional
-- https://www.ciwcertified.com/ciw-certifications/web-development-series/javascript-specialist
-- https://www.javascriptinstitute.org/javascript-certification/
-- https://www.codechef.com/certification/data-structures-and-algorithms/about
-
-##### My TODO list
-https://github.com/gkucmierz/TODO
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkucmierz&layout=compact)
 ![Statistics](https://github-readme-stats.vercel.app/api?username=gkucmierz&show_icons=true)
