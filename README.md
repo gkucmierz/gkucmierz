@@ -15,6 +15,7 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 - https://www.npmjs.com/package/@gkucmierz/utils
 
 ##### Other stuff
+- https://github.com/gkucmierz/project-euler - my Project Euler 1-100 solutions
 - https://github.com/gkucmierz/certificates - certificates, assesments, pdfs
 - https://github.com/gkucmierz/algorithms - some of algorithms or code patterns
 - https://github.com/gkucmierz/leetcode - some of my leetcode solutions
