@@ -31,3 +31,5 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 ![Statistics](https://github-readme-stats.vercel.app/api?username=gkucmierz&show_icons=true)
 
 ![visitors](https://komarev.com/ghpvc/?username=gkucmierz&color=blue) [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22" height="22" alt="Grzegorz Kućmierz's DEV Profile">](https://dev.to/gkucmierz)
+
+<img src="https://projecteuler.net/profile/gkucmierz.png">
