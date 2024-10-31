@@ -7,7 +7,6 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 - [[app](https://bitcoin-average.netlify.app)] - https://github.com/gkucmierz/bitcoin-average-vue
 - [[app](https://instacode.app)] - https://github.com/gkucmierz/instacode-app 💻
 - [[app](https://awesome-web-tools.web.app)] - https://github.com/gkucmierz/web-tools 🛠
-- [[app](https://btc-average.web.app)] - https://github.com/gkucmierz/bitcoin-average 💵
 - [[app](https://gkucmierz.github.io/vanity-eth)] - https://github.com/gkucmierz/vanity-eth
 - [[app](https://gkucmierz.github.io/crypto-links)] - https://github.com/gkucmierz/crypto-links
 
