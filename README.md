@@ -9,8 +9,8 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 - [[app](https://awesome-web-tools.web.app)] - https://github.com/gkucmierz/web-tools 🛠
 - [[app](https://gkucmierz.github.io/vanity-eth)] - https://github.com/gkucmierz/vanity-eth
 - [[app](https://gkucmierz.github.io/crypto-links)] - https://github.com/gkucmierz/crypto-links
-- [[app](https://nonograms.7u.pl)] - https://github.com/gkucmierz/nonograms
-- [[app](https://rubic-cube.7u.pl/)] - https://gitea.7u.pl/gkucmierz/rubic-cube
+- [[app](https://nonograms.7u.pl)] - https://github.com/gkucmierz/nonograms 🧩
+- [[app](https://rubic-cube.7u.pl/)] - https://gitea.7u.pl/gkucmierz/rubic-cube 🧊
 
 ##### NPM packages
 - https://www.npmjs.com/package/social-links
