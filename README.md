@@ -16,6 +16,12 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 ##### NPM packages
 - https://www.npmjs.com/package/social-links
 - https://www.npmjs.com/package/@gkucmierz/utils
+- [https://www.npmjs.com/package/@gkucmierz/bitcoin-logo](https://www.npmjs.com/package/@gkucmierz/bitcoin-logo)
+- [https://www.npmjs.com/package/@gkucmierz/healpixjs-bigint](https://www.npmjs.com/package/@gkucmierz/healpixjs-bigint)
+- [https://www.npmjs.com/package/@gkucmierz/geo-number](https://www.npmjs.com/package/@gkucmierz/geo-number)
+- [https://www.npmjs.com/package/@gkucmierz/geo-words](https://www.npmjs.com/package/@gkucmierz/geo-words)
+- [https://www.npmjs.com/package/@gkucmierz/dport](https://www.npmjs.com/package/@gkucmierz/dport)
+
 
 ##### Other stuff
 - https://github.com/gkucmierz/project-euler - my Project Euler 1-100 solutions
