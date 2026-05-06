@@ -36,8 +36,12 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 - https://github.com/gkucmierz/get-eth-balances - npm cli package 📦 that helps to check ETH balances
 - https://github.com/gkucmierz/game-of-life - my version of unlimited Game of Life + visualisation ❤️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkucmierz&layout=compact)
-![Statistics](https://github-readme-stats.vercel.app/api?username=gkucmierz&show_icons=true)
+##### Tech Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,js,ts,nodejs,html,css,vite,git,linux,bash,docker,github&perline=6" />
+  </a>
+</p>
 
 ![visitors](https://komarev.com/ghpvc/?username=gkucmierz&color=blue) [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22" height="22" alt="Grzegorz Kućmierz's DEV Profile">](https://dev.to/gkucmierz)
 
