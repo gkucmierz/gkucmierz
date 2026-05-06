@@ -51,6 +51,7 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://instacode.app/"><img src="https://instacode.app/img/icons/apple-touch-icon-180x180.png" width="48" height="48" alt="Instacode" style="border-radius: 10px;" /></a>
 </p>
 
 ![visitors](https://komarev.com/ghpvc/?username=gkucmierz&color=blue) [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22" height="22" alt="Grzegorz Kućmierz's DEV Profile">](https://dev.to/gkucmierz)
