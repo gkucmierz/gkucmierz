@@ -38,9 +38,19 @@ I'm [Grzegorz Kućmierz](https://www.github.com/gkucmierz)
 
 ##### Tech Stack & Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,js,ts,nodejs,html,css,vite,git,linux,bash,docker,github&perline=6" />
-  </a>
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <br />
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
 
 ![visitors](https://komarev.com/ghpvc/?username=gkucmierz&color=blue) [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22" height="22" alt="Grzegorz Kućmierz's DEV Profile">](https://dev.to/gkucmierz)
